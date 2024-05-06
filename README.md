@@ -23,6 +23,8 @@ GateGuard Visitor Notifier is an intelligent gate monitoring system aimed at kee
 - *LCD Display*: Provides messages to visitors at the gate.
 - *Breadboard and Jumper Wires*: For prototyping and connecting components.
 - *Power Supply/Battery*: To power the system.
+- *Buzzer Module:
+A buzzer module typically consists of a small piezo buzzer connected to a driver circuit. It's designed to produce sound when a voltage is applied to it.
 
 **Software Tools:**
 
