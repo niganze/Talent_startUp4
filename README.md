@@ -35,7 +35,7 @@ GateGuard Visitor Notifier is an intelligent gate monitoring system aimed at kee
 
 **Implementation Considerations:**
 
-- *Fingerprint Enrollment*: The system should allow the homeowner to enroll fingerprints for regular visitors or family members securely.
+**- *Fingerprint Enrollment*: The system should allow the homeowner to enroll fingerprints for regular visitors or family members securely.**
 - *Notification System*: Use Telegram or WhatsApp APIs to send messages to the homeowner's phone, indicating visitor status and whether fingerprint confirmation has occurred.
 - *Security and Privacy*: Ensure fingerprint data is stored securely, within the sensor, not transmitted over the internet.
 - *Fallback Options*: Consider providing a manual override or a secondary method to alert the homeowner if the fingerprint sensor fails or there are security concerns.
