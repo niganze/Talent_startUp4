@@ -1,6 +1,10 @@
 # Talent_startUp4
 
 
+
+Hello ✋, I'm Alain NIGANZE from the University of Rwanda, currently pursuing studies in computer and software engineering. At the moment, I'm enrolled in an embedded systems course. Through this course, I'm engaged in the following embedded system project
+
+
 **Project Overview: GateGuard Visitor Notifier with Fingerprint Confirmation**
 
 GateGuard Visitor Notifier is an intelligent gate monitoring system aimed at keeping visitors informed about their entry status and prompting homeowners to take action if a visitor experiences prolonged wait times. The system communicates with visitors through an LCD display. If a visitor presses the button multiple times, indicating an extended wait, they have the option to confirm their identity via fingerprint scanning. Once confirmed, the system promptly alerts the homeowner about the visitor's presence, ensuring timely attention to their arrival.
