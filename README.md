@@ -3,7 +3,7 @@
 
 **Project Overview: GateGuard Visitor Notifier with Fingerprint Confirmation**
 
-GateGuard Visitor Notifier is a smart gate monitoring system designed to keep visitors informed about the status of their entry and to prompt homeowners to take action if a visitor is kept waiting too long. The system notifies visitors through an LCD display, and if they are waiting for an extended period, they can confirm their identity via fingerprint. The system then alerts the homeowner to ensure the visitor is attended to promptly.
+GateGuard Visitor Notifier is an intelligent gate monitoring system aimed at keeping visitors informed about their entry status and prompting homeowners to take action if a visitor experiences prolonged wait times. The system communicates with visitors through an LCD display. If a visitor presses the button multiple times, indicating an extended wait, they have the option to confirm their identity via fingerprint scanning. Once confirmed, the system promptly alerts the homeowner about the visitor's presence, ensuring timely attention to their arrival.
 
 **Key Features:**
 1. *Visitor Notification*: The system notifies visitors at the gate, confirming that their presence has been detected and that someone is coming to open the gate.
