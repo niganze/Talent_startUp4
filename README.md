@@ -5,13 +5,13 @@
 Hello ✋, I'm Alain NIGANZE from the University of Rwanda, currently pursuing studies in computer and software engineering. At the moment, I'm enrolled in an embedded systems course. Through this course, I'm engaged in the following embedded system project
 
 
-Gate Guard Visitor Notification System
+**Gate Guard Visitor Notification System**
 
 Objective: Develop a system to facilitate communication between visitors and homeowners at a gated property. The system will allow visitors to notify the homeowner of their presence, and the homeowner to send messages to the visitor to either wait or indicate that they are unavailable.
 
 System Overview The system allows a visitor to press a button at a gate to notify the homeowner of their arrival. The homeowner can then respond, either by pressing a button to send a predefined SMS message to the visitor or by sending a custom SMS message to communicate further. Additionally, if the visitor does not receive a response within a certain time, an SMS alert is sent to the house.
 
-Key Components
+**Key Components**
 
 Microcontroller: At the heart of the system, responsible for managing button inputs, sending and receiving SMS, and controlling the system's logic. we will use ESP 32
 Push Buttons: One button for the visitor at the gate, one button for the homeowner inside the house.
@@ -27,7 +27,9 @@ Hardware Setup: Set up the microcontroller, connect the Wi-fi module, push butto
 Software Development: Write the embedded software to handle button presses, manage timers, send SMS messages via the Wi-fi module, and control alerts.
 Testing and Calibration: Test the system to ensure reliable communication and proper handling of edge cases, such as delayed SMS or button bounce.
 Deployment and Maintenance: Once the system is deployed, monitor its performance and be prepared to make adjustments to timing or SMS content as needed.
-5.Problems to Solve
+
+
+**5.Problems to Solve**
 
 Unclear Visitor Communication:Visitors at gated properties often have difficulty alerting homeowners of their arrival. This project creates a straightforward method for visitors to notify homeowners, reducing confusion and enhancing communication. -Delayed Homeowner Response:Without a reliable system, homeowners may not realize a visitor is waiting at the gate, leading to long wait times and frustration. This project ensures prompt notifications to the homeowner, reducing wait times and improving visitor satisfaction.
 Security Concerns:unverified visitors at the gate can pose a security risk. This system allows homeowners to be informed of a visitor's presence, enhancing property security by enabling controlled access and communication. -Visitor Feedback: Visitors often need feedback to confirm that their presence has been acknowledged. The system provides instant feedback through audible or visual signals, ensuring visitors know their notification has been received. -Visitor Management in Absence:When homeowners are not at home, visitors need to be informed. The system can alert the homeowner remotely, allowing them to communicate with visitors even when they are not on the property. This flexibility improves visitor experience and reduces confusion. -Inefficient Communication Channels:Traditional methods of visitor notification, such as doorbells or intercoms, can be inefficient or unavailable at gated properties. This system utilizes SMS communication, ensuring a reliable channel for alerts and responses. -Customization and Flexibility: The system provides a customizable platform for homeowners to respond to visitors. This flexibility enables homeowners to send predefined or custom SMS messages, enhancing communication and reducing misunderstandings.
